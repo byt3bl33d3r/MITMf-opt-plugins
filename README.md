@@ -1,4 +1,5 @@
 MITMf-opt-plugins
 =================
 
-Optional plugins for MITMf
+This repo contains optional plugins for MITMf.
+These are not included in the main repo because they are not fully tested/functional.
